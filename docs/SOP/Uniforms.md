@@ -35,9 +35,9 @@ Long Sleeve
 <tr><td>
 Trainee EMT - Male
 </td><td>
-Being a newly employed member of the service, this is reflected with the Uniform. Having basic Insignia, or epaulettes and no badge
+Being a newly employed member of the service, this is reflected with the Uniform. Having basic Insignia, or epaulettes and Pink badge
 
-White Shirt
+Blue Shirt
 Dark Trousers
 EMS Patch
 </td><td>
@@ -45,9 +45,9 @@ Male EMS Trainee S-Sleeve
 /
 Male EMS Trainee L-Sleeve
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temsshortmale.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemsshortmale.jpg"></figure>
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temslongmale.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemslongmale.jpg"></figure>
 </td></tr>
 <tr><td>
 Emergency Medical Tech (EMT) - Male
@@ -122,9 +122,9 @@ Long Sleeve
 <tr><td>
 Trainee EMT - Female
 </td><td>
-Being a newly employed member of the service, this is reflected with the Uniform. Having basic Insignia, or epaulettes and no badge
+Being a newly employed member of the service, this is reflected with the Uniform. Having basic Insignia, or epaulettes and Pink badge
 
-White Shirt
+Blue Shirt
 Dark Trousers
 EMS Patch
 </td><td>
@@ -132,9 +132,9 @@ Female EMS Trainee S-Sleeve
 /
 Female EMS Trainee L-Sleeve
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temsshortfemale.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemsshortfemale.jpg"></figure>
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temslongfemale.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemslongfemale.jpg"></figure>
 </td></tr>
 <tr><td>
 Emergency Medical Tech (EMT) - Female

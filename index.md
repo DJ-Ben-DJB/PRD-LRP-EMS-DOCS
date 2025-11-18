@@ -9,7 +9,7 @@ nav_order: 1
 {: .highlight }
 > **OOC Note:** This guide is created for new medical role players with little to no experience. Its purpose is to help you learn the basics of medical roleplay and develop your skills to provide an enjoyable and immersive experience for both yourself, and the players you interact with in the city. 
 
-If you're a player portraing a patient, you might want to check out this section out <a href="/docs/Patients/Basics.html" title="Patients" ></a>
+If you're a player portraing a patient, you might want to check out the Patients Section
 
 Our aim is to give you a simple, easy to follow framework for handling different types of injuries while building your confidence in EMS
 

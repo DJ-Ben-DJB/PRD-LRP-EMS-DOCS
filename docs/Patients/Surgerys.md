@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Surgerys
-parent: Patient
+parent: Patients
 ---
 
 # EMS Roleplay Guide for Patients in Surgery

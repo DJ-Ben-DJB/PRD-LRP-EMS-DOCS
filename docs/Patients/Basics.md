@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Basics
-parent: Patient
+parent: Patients
 ---
 
 # EMS Roleplay Guide for Patients

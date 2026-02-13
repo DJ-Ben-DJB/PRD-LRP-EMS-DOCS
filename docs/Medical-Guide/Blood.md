@@ -48,7 +48,7 @@ Key principles:
 
 ## Recipient Compatibility
 
-Recipients must avoid donor antigens that their immune system recognizes as foreign.
+Recipients must avoid donor antigens that their immune system recognises as foreign.
 
 Key principles:
 - AB+: Universal red blood cell recipient

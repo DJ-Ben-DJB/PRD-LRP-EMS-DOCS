@@ -21,6 +21,7 @@ The ABO system classifies blood based on the presence of antigens on red blood c
 - Type O: Has no A or B antigens
 
 The immune system produces antibodies against antigens that are not present in the person’s own blood.
+
 ---
 
 ## Rh Factor (+ / −)
@@ -30,6 +31,7 @@ The Rh factor refers to the presence of the Rh (D) antigen:
 - Rh-negative (−): Rh antigen absent
 
 Rh-negative individuals should not receive Rh-positive blood, as it may cause an immune response.
+
 ---
 
 ## Donor Compatibility
@@ -41,6 +43,7 @@ Key principles:
 - AB+: Can only donate to AB+
 - Rh-negative blood can be given to both Rh− and Rh+ recipients
 - Rh-positive blood can only be given to Rh+ recipients
+
 ---
 
 ## Recipient Compatibility
@@ -52,6 +55,7 @@ Key principles:
 - O−: Can only receive from O−
 - Rh-positive recipients can receive Rh+ or Rh−
 - Rh-negative recipients should receive only Rh−
+
 ---
 
 ## Why Compatibility Matters
@@ -62,6 +66,7 @@ Transfusing incompatible blood can cause:
 - Shock, organ failure, or death
 
 Proper blood typing and crossmatching prevent these complications.
+
 ---
 
 ## Quick Reference
